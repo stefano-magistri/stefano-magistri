@@ -25,5 +25,5 @@ A personal medical-management application built with **.NET 10 and Blazor Server
 
 ### Connect
 
-- 🌐 [Portfolio](https://stefano-magistri-dotnet.topjaguar.chatgpt.site/)
+- 🌐 [Portfolio](https://stefano-magistri.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/stefano-magistri/)
