@@ -4,7 +4,7 @@
 
 I work on enterprise applications, from maintaining established .NET systems to introducing modern APIs and improving delivery pipelines. I favour practical modernisation over unnecessary rewrites.
 
-🔗 **[Explore my portfolio](https://stefano-magistri-dotnet.topjaguar.chatgpt.site/)** — projects, architecture and anonymised examples from my professional work.
+🔗 **[Explore my portfolio](https://stefano-magistri.github.io/)** — projects, architecture and anonymised examples from my professional work.
 
 ### What I work with
 
