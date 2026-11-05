@@ -21,7 +21,7 @@ I have experience in financial-services software, enterprise integrations, legac
 A personal medical-management application built with **.NET 10 and Blazor Server**, using EF Core and SQLite. The project covers patient and therapy workflows as well as PDF generation, machine/user-bound licensing, database backup and recovery, automated tests, and Windows installation and upgrade workflows.
 
 - [Browse the source and screenshots](https://github.com/stefano-magistri/Praxiom)
-- [See Praxiom alongside my professional case studies](https://stefano-magistri-dotnet.topjaguar.chatgpt.site/)
+- [See Praxiom alongside my professional case studies](https://stefano-magistri.github.io/)
 
 ### Connect
 
